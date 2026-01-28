@@ -1,6 +1,6 @@
 <h1>Creativity Archived</h1>
 <p>
-    Ever wanted to upload your FNF (and more coming soon!) mods to a place that has less restriction?
+    Ever wanted to upload your game mods to a place that has less restriction?
 </p>
 
 <p>
