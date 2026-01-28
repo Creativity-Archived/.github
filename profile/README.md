@@ -10,13 +10,6 @@
 
 <h1></h1>
 
-<h3>More Information:</h3>
-<p>
-    This is still a work in progress website. We use netlify for hosting the website. We probably will move to vercel.
-</p>
-
-<h1></h1>
-
 <h2>Is the website open source?</h2>
 <p>
     Absoulutely! Everything here is MIT licensed. Though, please do not sell, claiming it's yours or many other stuff through my code. This website is license under MIT.
