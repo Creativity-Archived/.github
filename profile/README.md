@@ -19,3 +19,8 @@
 <p>
     Depends on what the people make. We highly suggest to make your mods open source. If you make your mod close-sourced, that's fine! But we'll have to put a <codeblock>[NOT OPEN SOURCE]</codeblock> tag to let people know.
 </p>
+
+<h1>Who owns?</h1>
+<p>
+    <b>Creativity Archived</b> is part of the <a href="https://pinpointtools.github.io/">Pinpoint Tools</a> organization.
+</p>
